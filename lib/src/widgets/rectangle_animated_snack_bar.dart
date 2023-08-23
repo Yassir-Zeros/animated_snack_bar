@@ -4,7 +4,7 @@ import '../types.dart';
 
 const _infoBackgroundColor = Color.fromRGBO(85, 85, 238, 1);
 const _errorBackgrounColor = Color.fromRGBO(255, 0, 0, 1);
-const _successBackgroundColor = Color.fromRGBO(99, 142, 90, 1);
+const _successBackgroundColor = Color('0xff2a9d8f');
 const _warningBackgroundColor = Color.fromRGBO(232, 145, 72, 1);
 
 const _darkColor = Color.fromRGBO(45, 45, 40, 1);
