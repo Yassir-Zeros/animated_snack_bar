@@ -81,6 +81,7 @@ class RectangleAnimatedSnackBar extends StatelessWidget {
     return Container(
       padding: const EdgeInsets.symmetric(vertical: 18, horizontal: 14),
       decoration: BoxDecoration(
+        borderRadius: BorderRadius.circular(18),
         color: primary,
       ),
       child: Row(
